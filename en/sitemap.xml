@@ -9,14 +9,28 @@
   </url>
   
   <url>
-    <loc>https://lliujinjun.github.io/en/categories/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <loc>https://lliujinjun.github.io/en/2022/06/02/blog-test/</loc>
+    <lastmod>2022-06-02T21:46:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lliujinjun.github.io/en/</loc>
+    <lastmod>2022-06-02T21:46:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lliujinjun.github.io/en/posts/</loc>
+    <lastmod>2022-06-02T21:46:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lliujinjun.github.io/en/categories/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,13 +45,6 @@
   
   <url>
     <loc>https://lliujinjun.github.io/en/category/notes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lliujinjun.github.io/en/posts/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

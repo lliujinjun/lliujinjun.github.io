@@ -9,7 +9,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jun 2022 21:46:57 +0800</lastBuildDate>
     
     <atom:link href="https://lliujinjun.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,6 +32,37 @@ Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</descr
 <li><a href="https://github.com/spf13/cast">Cast</a></li>
 </ul>
 <p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Blog Test</title>
+      <link>https://lliujinjun.github.io/en/2022/06/02/blog-test/</link>
+      <pubDate>Thu, 02 Jun 2022 21:46:57 +0800</pubDate>
+      
+      <guid>https://lliujinjun.github.io/en/2022/06/02/blog-test/</guid>
+      <description> first page </description>
+      <content:encoded><![CDATA[
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+first page
+</h2>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+
+</h2>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+
+</h2>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+
+</h2>
+</div>
 ]]></content:encoded>
     </item>
     
