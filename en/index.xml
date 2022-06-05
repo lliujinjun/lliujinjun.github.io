@@ -22,7 +22,7 @@
       <guid>https://lliujinjun.github.io/en/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
       <content:encoded><![CDATA[<p>Hugo is a static site engine written in Go.</p>
 <p>It makes use of a variety of open source projects including:</p>
 <ul>
@@ -205,7 +205,7 @@ text code blocks
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://lliujinjun.github.io/en/2018/03/04/shortcodes-preview/</guid>
-      <description>Twiiter Google Map Figure   Globe    Highlight for Shells # test echo test # just a test echo hello world </description>
+      <description>Twiiter Google Map Figure Globe Highlight for Shells # test echo test # just a test echo hello world </description>
       <content:encoded><![CDATA[<h2 id="twiiter">Twiiter</h2>
 <h2 id="google-map">Google Map</h2>
 <h2 id="figure">Figure</h2>
